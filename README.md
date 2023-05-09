@@ -1,2 +1,2 @@
-Authors 	Contributing authors
+Contributing authors
 
